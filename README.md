@@ -55,13 +55,5 @@ KPMamba is a lightweight, category-agnostic pose estimation framework built upon
 - CUDA 11.0+
 
 ### Setup
-```bash
-# Clone the repository
-git clone https://github.com/your_username/kpmamba.git
-
-# Navigate to the project directory
-cd kpmamba
-
-# Install dependencies
-pip install -r requirements.txt
+This part will be finished in very soon!
 
